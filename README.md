@@ -26,7 +26,36 @@ The Luhn algorithm is commonly used in:
 - **Debit card numbers**.
 - **IMEI numbers** (for identifying mobile devices).
 - **Canadian Social Insurance Numbers (SIN)**.
-  
+
+---
+## Research Links
+
+Here are some links to resources and research materials about the Luhn Algorithm:
+
+1. **Wikipedia - Luhn Algorithm**  
+   [Wikipedia Luhn Algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)  
+   A comprehensive overview of the algorithm, its history, and applications.
+
+2. **IBM - The Check Digit Algorithm**  
+   [IBM Luhn Algorithm](https://www.ibm.com/docs/en/zos/2.2.0?topic=SSLTBW_2.2.0/com.ibm.zos.v2r2.idai100/valid.htm)  
+   An explanation of the check digit algorithm as implemented by IBM, highlighting its use in financial and identification contexts.
+
+3. **Khan Academy - Check Digits and the Luhn Algorithm**  
+   [Khan Academy Luhn Algorithm](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/check-digits)  
+   A clear, educational explanation of check digits and the Luhn algorithm with examples.
+
+4. **The Luhn Algorithm in Credit Card Validation**  
+   [Credit Card Validation using Luhn](https://www.creditcardvalidator.org/articles/luhn-algorithm)  
+   This article explains the role of the Luhn algorithm in credit card validation, including practical insights.
+
+5. **NIST - Algorithm Specifications for Digital Signatures**  
+   [NIST - Digital Signature Algorithm](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf)  
+   While not solely focused on the Luhn algorithm, this document from the National Institute of Standards and Technology discusses digital algorithms and provides broader context.
+
+6. **Medium - Understanding the Luhn Algorithm**  
+   [Medium Article on Luhn Algorithm](https://medium.com/@alyssaxuu/understanding-the-luhn-algorithm-d07e4cdb01b4)  
+   An easy-to-follow guide explaining the Luhn algorithm in a modern context, with example implementations.
+
 ---
 ## Overview
 

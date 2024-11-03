@@ -19,7 +19,14 @@ Welcome to the **Luhn Algorithm Tool**! This tool provides an interactive way to
 - [Contributing](#contributing)
 
 ---
-
+### Applications of the Luhn Algorithm
+The Luhn algorithm is commonly used in:
+- **Credit card numbers** (like Visa, MasterCard, and American Express).
+- **Debit card numbers**.
+- **IMEI numbers** (for identifying mobile devices).
+- **Canadian Social Insurance Numbers (SIN)**.
+  
+---
 ## Overview
 
 The **Luhn Algorithm Tool** is a Python-based program designed to help users work with the Luhn algorithm in a convenient and visually appealing way. The Luhn algorithm is widely used for validating identification numbers, like credit card numbers, and is a crucial tool in financial and security-related applications. This tool goes beyond basic validation by offering features such as check digit generation, step-by-step explanations with progress tracking, and the ability to validate multiple numbers at once.

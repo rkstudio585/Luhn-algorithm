@@ -9,6 +9,7 @@ Welcome to the **Luhn Algorithm Tool**! This tool provides an interactive way to
 
 ## Table of Contents
 
+- [Working logic](working-behaviour.txt)
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)

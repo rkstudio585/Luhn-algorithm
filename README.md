@@ -1,7 +1,7 @@
 # Luhn-algorithm
 
 ---
-![luhn](logo.png)
+![luhn](logo.svg)
 
 # Luhn Algorithm Tool
 
